@@ -49,3 +49,6 @@ description: Weekly report generator from git commits & work logs (周报生成�
 - 编造用户没提过的成果
 - 使用"赋能"、"抓手"、"闭环"等空话
 - 把 1 件小事拆成 5 条凑数
+---
+
+*（本技能出自[数字员工配置包](https://github.com/Hahaknight/digital-employee-pack)——免费样例之一。完整版含 6 个岗位技能 + 自动防护 Hooks + 3 套 SOP：[获取完整版](https://github.com/Hahaknight/digital-employee-pack#获取完整版)，早鸟名额内免费换。）*

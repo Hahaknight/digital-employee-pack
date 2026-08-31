@@ -43,3 +43,6 @@ description: PPT outline & slide-by-slide content design (PPT 大纲与逐页内
 
 - 一上来就写逐页内容（必须先过故事线）
 - 大段文字塞进一页
+---
+
+*（本技能出自[数字员工配置包](https://github.com/Hahaknight/digital-employee-pack)——免费样例之一。完整版含 6 个岗位技能 + 自动防护 Hooks + 3 套 SOP：[获取完整版](https://github.com/Hahaknight/digital-employee-pack#获取完整版)，早鸟名额内免费换。）*
