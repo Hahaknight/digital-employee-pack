@@ -37,12 +37,15 @@
 ## 快速开始（免费样例）
 
 ```bash
-# 1. 在你的工作目录创建技能文件夹
-mkdir -p .claude/skills/weekly-report
+# 生态标准安装（实测可用：3 个样例技能一键装入 Claude Code）
+npx skills add Hahaknight/digital-employee-pack
 
-# 2. 把样例里的 SKILL.md 放进去
-# 3. 启动 Claude Code，直接说：「周报」
+# 装进其他 AI 工具：--agent codex / gemini-cli / qwen-code / opencode / cursor …
+# 手动安装：把 free-sample/skills/ 下的文件夹复制到 ~/.claude/skills/
+#（Windows：复制到 C:\Users\你的用户名\.claude\skills\）
 ```
+
+装好后对 Claude Code 说：「写周报」「会议纪要」「PPT 大纲」——技能会自动接管。
 
 ## 获取完整版
 
