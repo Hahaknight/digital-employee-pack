@@ -1,5 +1,7 @@
 # 数字员工配置包 — 把 Claude Code 变成你的全天候同事 🧑‍💼
 
+> **先看 [EXAMPLES.md](EXAMPLES.md)——技能在作者真实工作数据上的输出示例（周报/PPT 大纲），不是演示数据。**
+
 <p align="center"><img src="assets_cover.png" width="360" alt="数字员工配置包：6大岗位技能 + 防护Hooks + 工作流SOP，早鸟¥12.9"/></p>
 
 > 你已经会用 AI 聊天了。但你的同事开始用 AI **干活**了：周报自动生成、乱表格一键清洗、1 小时录音 3 分钟出纪要。
