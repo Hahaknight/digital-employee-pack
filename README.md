@@ -8,6 +8,8 @@
 >
 > 差距不在模型，在**配置**。
 
+> 来自同一作者：工程师向的 [claude-skills-pro](https://github.com/Hahaknight/claude-skills-pro)（15 个工程工作流 skills，7 个免费 MIT）。
+
 这个仓库给你一套开箱即用的配置：1 份入职培训模板 + 6 个岗位技能 + 自动防护 + 3 套工作流 SOP。全部中文、面向上班族、不需要编程基础。
 
 ## 免费样例（本仓库可直接用）
