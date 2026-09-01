@@ -49,7 +49,7 @@ npx skills add Hahaknight/digital-employee-pack
 
 ## 获取完整版
 
-🚚 **完整包已在 [Releases v1.0](../../releases/tag/v1.0) 上线**（密码保护，购买后发送解压密码）。**现在就能买**：在 [claude-skills-pro issue #1](https://github.com/Hahaknight/claude-skills-pro/issues/1) 评论「购买 DEP + 中文」，24 小时内回复付款方式并发密码（¥19.9）。🎁 **前 30 个早鸟名额**：Star ⭐ 本仓库 + [开一个 Issue](../../issues/new?title=早鸟申请&body=我的使用场景是：) 写一句你的使用场景，免费换完整版，条件是使用后留一句真实反馈。
+🚚 **完整包已在 [Releases v1.0](../../releases/tag/v1.0) 上线**（密码保护，购买后发送解压密码）。**现在就能买**：在 [claude-skills-pro issue #1](https://github.com/Hahaknight/claude-skills-pro/issues/1) 评论「购买 DEP + 中文」，通常几分钟内回复付款方式并发密码（深夜最迟 2 小时）（¥19.9）。🎁 **前 30 个早鸟名额**：Star ⭐ 本仓库 + [开一个 Issue](../../issues/new?title=早鸟申请&body=我的使用场景是：) 写一句你的使用场景，免费换完整版，条件是使用后留一句真实反馈。
 
 ## 为什么是"技能"而不是"提示词"？
 
