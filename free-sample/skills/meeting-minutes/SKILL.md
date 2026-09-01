@@ -37,3 +37,9 @@ description: Meeting minutes generator (会议纪要生成器). 从口述要点�
 ---
 
 *免费样例。完整版《数字员工配置包》另含：多人分工模板、周会/评审会/客户会三种场景模板、行动项跟踪表。*
+
+---
+
+## 更多
+
+数字员工配置包免费样例。完整版含 6 个岗位技能 + 敏感信息防护 + 3 套工作流 SOP（¥19.9 / 免费评审拷贝）：[github.com/Hahaknight/digital-employee-pack](https://github.com/Hahaknight/digital-employee-pack)

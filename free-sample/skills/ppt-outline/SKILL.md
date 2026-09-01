@@ -46,3 +46,9 @@ description: PPT outline & slide-by-slide content design (PPT 大纲与逐页内
 ---
 
 *（本技能出自[数字员工配置包](https://github.com/Hahaknight/digital-employee-pack)——免费样例之一。完整版含 6 个岗位技能 + 自动防护 Hooks + 3 套 SOP：[获取完整版](https://github.com/Hahaknight/digital-employee-pack#获取完整版)，早鸟名额内免费换。）*
+
+---
+
+## 更多
+
+数字员工配置包免费样例。完整版含 6 个岗位技能 + 敏感信息防护 + 3 套工作流 SOP（¥19.9 / 免费评审拷贝）：[github.com/Hahaknight/digital-employee-pack](https://github.com/Hahaknight/digital-employee-pack)

@@ -1,0 +1,15 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Free Samples (MIT)",
+      "description": "3 free office-workflow samples. The full 数字员工配置包 (Digital Employee Pack) adds 6 job skills (周报/纪要/PPT/简历/表格/邮件), sensitive-info protection and 3 workflow SOPs.",
+      "skills": [
+        "weekly-report",
+        "meeting-minutes",
+        "ppt-outline"
+      ]
+    }
+  ]
+}
