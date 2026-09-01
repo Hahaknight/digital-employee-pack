@@ -51,6 +51,11 @@ npx skills add Hahaknight/digital-employee-pack
 
 🚚 **完整包已在 [Releases v1.0](../../releases/tag/v1.0) 上线**（密码保护，购买后发送解压密码）。**现在就能买**：在 [claude-skills-pro issue #1](https://github.com/Hahaknight/claude-skills-pro/issues/1) 评论「购买 DEP + 中文」，通常几分钟内回复付款方式并发密码（深夜最迟 2 小时）（¥19.9）。🎁 **前 30 个早鸟名额**：Star ⭐ 本仓库 + [开一个 Issue](../../issues/new?title=早鸟申请&body=我的使用场景是：) 写一句你的使用场景，免费换完整版，条件是使用后留一句真实反馈。
 
+### 直接付款（国内）
+
+支付宝扫码支付 ¥19.9 → 付款截图发 [claude-skills-pro issue #1](https://github.com/Hahaknight/claude-skills-pro/issues/1) 评论 → 通常几分钟内回复解压密码（深夜最迟 2 小时）。
+<img src="https://hahaknight.github.io/qr/alipay.png" width="180" alt="支付宝收款码 Alipay QR">
+
 ## 为什么是"技能"而不是"提示词"？
 
 提示词用一次就丢；技能（SKILL.md）是**装进 Agent 里的标准作业程序**：AI 会在正确的时机自动调用它，并按你定下的规则执行（先诊断后动手、不编数字、结论先行）。一次配置，长期复用。
