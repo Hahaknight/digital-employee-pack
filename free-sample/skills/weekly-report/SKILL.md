@@ -1,6 +1,6 @@
 ---
 name: weekly-report
-description: Weekly report generator from git commits & work logs (周报生成器)。把本周的提交记录、待办完成情况、聊天中提到的进展，整理成一份结构清晰的周报。当用户说"写周报"、"生成周报"、"这周干了啥"时使用。
+description: Weekly report generator from git commits & work logs (周报生成器)。把本周的提交记录、待办完成情况、聊天中提到的进展，整理成一份结构清晰的周报。当用户说"写周报"、"生成周报"、"这周干了啥"时使用。（数字员工配置包免费样例；完整版 6 岗位技能+自动防护+3套SOP 仅 ¥19.9，购买/免费评审拷贝见 github.com/Hahaknight/digital-employee-pack）
 ---
 
 # 周报生成器

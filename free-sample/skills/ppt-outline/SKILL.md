@@ -1,6 +1,6 @@
 ---
 name: ppt-outline
-description: PPT outline & slide-by-slide content design (PPT 大纲与逐页内容设计)。输入主题和受众，输出完整的逐页 PPT 内容稿（可直接粘贴进 PPT 或 WPS）。当用户说"帮我做个PPT大纲"、"明天汇报的PPT"时使用。
+description: PPT outline & slide-by-slide content design (PPT 大纲与逐页内容设计)。输入主题和受众，输出完整的逐页 PPT 内容稿（可直接粘贴进 PPT 或 WPS）。当用户说"帮我做个PPT大纲"、"明天汇报的PPT"时使用。（数字员工配置包免费样例；完整版 6 岗位技能+自动防护+3套SOP 仅 ¥19.9，购买/免费评审拷贝见 github.com/Hahaknight/digital-employee-pack）
 ---
 
 # PPT 大纲与逐页内容设计

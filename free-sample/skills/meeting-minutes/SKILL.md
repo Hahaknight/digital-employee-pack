@@ -1,6 +1,6 @@
 ---
 name: meeting-minutes
-description: Meeting minutes generator (会议纪要生成器). 从口述要点或速记直接产出可发群的结构化会议纪要：结论先行、行动项带负责人和日期。当用户说"整理会议纪要"、"刚开完会帮我记一下"时使用。
+description: Meeting minutes generator (会议纪要生成器). 从口述要点或速记直接产出可发群的结构化会议纪要：结论先行、行动项带负责人和日期。当用户说"整理会议纪要"、"刚开完会帮我记一下"时使用。（数字员工配置包免费样例；完整版 6 岗位技能+自动防护+3套SOP 仅 ¥19.9，购买/免费评审拷贝见 github.com/Hahaknight/digital-employee-pack）
 ---
 
 # 会议纪要生成器
