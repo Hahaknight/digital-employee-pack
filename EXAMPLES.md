@@ -59,4 +59,8 @@
 
 ---
 
-*本页由技能流程在真实数据上运行的输出整理而成。技能本体见 [free-sample/skills/](free-sample/skills/)。*
+*本页由技能流程在真实数据上运行的输出整理而成。免费技能本体见 [free-sample/skills/](free-sample/skills/)。*
+
+**想要完整版？（6 技能 + 敏感信息自动防护 Hooks + CLAUDE.md 入职模板 + 3 套 SOP）**
+
+📦 完整包在 [Releases v1.0](../../releases/tag/v1.0)（密码保护）——**购买**：[claude-skills-pro issue #1](https://github.com/Hahaknight/claude-skills-pro/issues/1) 评论「购买 DEP + 中文」（¥19.9），24h 内发解压密码。🎁 早鸟名额内：Star ⭐ + [开 Issue](../../issues/new?title=早鸟申请&body=我的使用场景是：) 写一句使用场景，**免费换**完整版。
